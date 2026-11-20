@@ -1,0 +1,10 @@
+name: proactive_chat
+author: CarefreeSongs712
+display_name: 主动聊天
+version: 1.0.0
+description: 私聊主动发起对话
+repo: https://github.com/CarefreeSongs712/mohobot-plugin-proactive_chat
+license: AGPL-3.0
+api_version: 1
+mohobot_version: ">=0.1.0"
+tags: [chat]
